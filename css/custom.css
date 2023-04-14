@@ -1,6 +1,7 @@
 /*Polices*/
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
 
 .abrilfatface {
 	font-family: "Abril Fatface", cursive;
@@ -8,6 +9,10 @@
 
 .raleway {
 	font-family: "Raleway", sans-serif;
+}
+
+.sora {
+	font-family: "Sora", sans-serif;
 }
 
 header {
@@ -28,6 +33,7 @@ main {
 }*/
 
 .navbar-brand {
-	font-family: "Abril Fatface", sans-serif;
+	font-family: "Sora", sans-serif;
+	font-weight: bold;
 	font-size: 1.5em;
 }
