@@ -23,9 +23,9 @@ main {
 	height: 100vh;
 }
 
-.navbar {
+/*.navbar {
 	background-color: rgba(0, 0, 0, 0.5);
-}
+}*/
 
 .navbar-brand {
 	font-family: "Abril Fatface", sans-serif;
