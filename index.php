@@ -6,6 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Lucas Spitzer</title>
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+		<meta name="description" content="Portfolio de Lucas Spitzer, étudiant en terminale STI2D option SIN" />
 		<!-- Bootstrap -->
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous" />
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
@@ -44,7 +45,7 @@
 				<div class="container col-xxl-8 px-4 py-5">
 					<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
 						<div class="col-10 col-sm-8 col-lg-6">
-							<img src="img/logo.png" class="d-block mx-lg-auto img-fluid rounded-circle" alt="Photo de profil" width="700" height="500" loading="lazy" />
+							<img src="img/logo.png" class="d-block mx-lg-auto img-fluid rounded-circle" alt="Photo de profil représentant un lapin avec un casque d'astronaute en blanc et bleu" width="700" height="500" loading="lazy" />
 						</div>
 						<div class="col-lg-6">
 							<h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Hello, moi c'est Lucas 👋</h1>
@@ -66,9 +67,9 @@
 				<!-- SPARKLESS-->
 				<div class="col">
 					<div class="card h-100">
-						<img src="img/sparkless-mockup.png" class="card-img-top" alt="Vue de la page utilisateur sur plusieurs appareils" />
+						<img src="img/sparkless-mockup.webp" class="card-img-top" alt="Vue de la page utilisateur du site de Sparkless sur plusieurs appareils" />
 						<div class="card-body">
-							<h5 class="card-title"><a href="https://cendrier.lucasspitzer.me">Sparkless</a></h5>
+							<span class="card-title h5"><a href="https://cendrier.lucasspitzer.me">Sparkless</a></span>
 							<div class="card-text">
 								<p>Création d'un site web pour un cendrier connecté permettant aux fumeurs de suivre le consommation de tabac afin de les sensibiliser.</p>
 								<p><span class="fw-bold">Participants:</span> Esteban Remond, Valentin Barbin, Henri Pau, Clément Bernard</p>
@@ -87,9 +88,9 @@
 				<!-- EASY ACCESS-->
 				<div class="col">
 					<div class="card h-100">
-						<img src="img/easyaccess-mockup.png" class="card-img-top" alt="Vue de la page utilisateur sur plusieurs appareils" />
+						<img src="img/easyaccess-mockup.webp" class="card-img-top" alt="Vue de la page d'accueil et du de la page cuisine du projet EasyAccess sur deux écrans d'ordinateurs sur un bureau" />
 						<div class="card-body">
-							<h5 class="card-title"><a href="https://easyaccess.lucasspitzer.me">EasyAccess</a></h5>
+							<span class="card-title h5"><a href="https://easyaccess.lucasspitzer.me">EasyAccess</a></span>
 							<div class="card-text">
 								<p>Création d'un site de présentation pour un projet de cuisine aménagée aux personnes à mobilité réduite</p>
 								<p><span class="fw-bold">Participants:</span> Alexis Rebattet, Aurelien Lalande, Clément Bernard</p>
@@ -137,7 +138,7 @@
 				<p class="col-md-4 mb-0 text-body-secondary">&copy; 2023 Company, Inc</p>
 
 				<a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-					<img class="bi me-2 rounded-circle" src="img/logo.png" width="40" height="40" />
+					<img class="bi me-2 rounded-circle" src="img/logo.png" width="40" height="40" alt="Logo du site représentant un lapin avec un casque d'astronaute en blanc et bleu" />
 				</a>
 
 				<ul class="nav col-md-4 justify-content-end">
