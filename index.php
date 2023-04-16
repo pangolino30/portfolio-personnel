@@ -42,6 +42,11 @@
 				</div>
 			</nav>
 		</header>
+		<?php if (isset($_GET['success']) && $_GET['success'] == 1) ?>
+			<div class="alert alert-success" role="alert">
+				Votre message a bien été envoyé !
+			</div>
+		<?php ?>
 		<!-- SECTION 1 - A PROPOS-->
 		<section class="container p-2 d-flex flex-column min-vh-100 justify-content-center align-items-center" id="apropos">
 			<div class="row">
