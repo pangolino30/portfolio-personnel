@@ -16,6 +16,15 @@ section {
 }
 
 .imageseparation2 {
+	background-image: url(../img/pexels-tomáš-malík-3022417.jpg);
+	height: 40vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.imageseparation3 {
 	background-image: url(../img/pexels-ludvig-hedenborg-3753160.jpg);
 	height: 40vh;
 	background-size: cover;
@@ -31,5 +40,9 @@ section {
 }
 
 .progress {
-	height: 20px;
+	height: 30px;
+}
+
+.competences {
+	max-width: 80%;
 }
