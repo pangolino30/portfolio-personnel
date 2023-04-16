@@ -42,6 +42,11 @@
 				</div>
 			</nav>
 		</header>
+		<?php if (isset($_GET['success']) && $_GET['success'] == 1) { ?>
+			<div class="alert alert-success" role="alert">
+				Votre message a bien été envoyé !
+			</div>
+		<?php } ?>
 		<!-- SECTION 1 - A PROPOS-->
 		<section class="container p-2 d-flex flex-column min-vh-100 justify-content-center align-items-center" id="apropos">
 			<div class="row">
@@ -161,7 +166,6 @@
 		<section class="container p-2 d-flex flex-column min-vh-100 justify-content-center align-items-center" id="contact">
 			<form method="post" action="script/contact.php">
 				<h1 class="text-center pb-4 fw-bold">Contact</h1>
-				<!-- Formulaire de contact en php pour envoyer un message, doit avori les champs suivants: nom, email, sujet, message et un bouton d'envoi -->
 				<div class="row g-3">
 					<div class="col-md-6">
 						<label for="nom" class="form-label">Nom</label>
