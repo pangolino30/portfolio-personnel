@@ -41,14 +41,17 @@
 					</div>
 				</div>
 			</nav>
-		</header>
-		<?php if (isset($_GET['success']) && $_GET['success'] == 1) ?>
-			<div class="alert alert-success" role="alert">
-				Votre message a bien été envoyé !
-			</div>
-		<?php ?>
+		</header>		
 		<!-- SECTION 1 - A PROPOS-->
 		<section class="container p-2 d-flex flex-column min-vh-100 justify-content-center align-items-center" id="apropos">
+			<?php if(isset($_GET['success']) && $_GET['success'] == 1) { ?>
+			<div class="container pt-5 w-50">
+				<div class="alert alert-success alert-dismissible fade show" role="alert">
+					<strong>Message envoyé !</strong> Merci de m'avoir contacté, je vous répondrai dès que possible.
+					<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+				</div>
+			</div>
+			<?php } ?>
 			<div class="row">
 				<div class="container col-xxl-8 px-4 py-5">
 					<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
