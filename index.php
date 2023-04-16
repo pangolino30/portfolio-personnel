@@ -101,6 +101,12 @@
 					<div class="progress-bar bg-dark fw-bold" style="width: 70%">70%</div>
 				</div>
 			</div>
+			<div class="container competences align-content-center pb-2">
+				<span class="h3 fw-bold text-center">SEO</span>
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+					<div class="progress-bar bg-dark fw-bold" style="width: 70%">80%</div>
+				</div>
+			</div>
 		</section>
 		<div class="imageseparation2 mb-5"></div>
 		<!-- SECTION 3 - PROJETS -->
