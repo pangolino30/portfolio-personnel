@@ -73,13 +73,13 @@
 			<h1 class="text-center pb-4 fw-bold">Compétences</h1>
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">HTML</span>
-				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-					<div class="progress-bar bg-dark fw-bold" style="width: 90%">80%</div>
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+					<div class="progress-bar bg-dark fw-bold" style="width: 80%">80%</div>
 				</div>
 			</div>
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">CSS</span>
-				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
 					<div class="progress-bar bg-dark fw-bold" style="width: 70%">70%</div>
 				</div>
 			</div>
