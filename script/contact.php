@@ -5,4 +5,5 @@ $sujet = $_POST['sujet'];
 $message = $_POST['message'];
 mail("spitzerl@proton.me", "$sujet de $nom", $message, "Reply-To: $email");
 header("Location: ../index.html");
+exit();
 ?>
