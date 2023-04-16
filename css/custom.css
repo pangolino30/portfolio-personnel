@@ -6,6 +6,19 @@ section {
 	max-height: auto;
 }
 
+.profil:hover {
+	animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(359deg);
+	}
+}
+
 .imageseparation1 {
 	background-image: url(../img/pexels-oleksandr-pidvalnyi-345522.jpg);
 	height: 40vh;
