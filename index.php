@@ -42,11 +42,6 @@
 				</div>
 			</nav>
 		</header>
-		<?php if (isset($_GET['success']) && $_GET['success'] == 1) { ?>
-			<div class="alert alert-success" role="alert">
-				Votre message a bien été envoyé !
-			</div>
-		<?php } ?>
 		<!-- SECTION 1 - A PROPOS-->
 		<section class="container p-2 d-flex flex-column min-vh-100 justify-content-center align-items-center" id="apropos">
 			<div class="row">
@@ -104,7 +99,7 @@
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">SEO</span>
 				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
-					<div class="progress-bar bg-dark fw-bold" style="width: 70%">80%</div>
+					<div class="progress-bar bg-dark fw-bold" style="width: 80%">80%</div>
 				</div>
 			</div>
 		</section>
