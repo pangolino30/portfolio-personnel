@@ -85,25 +85,25 @@
 			</div>
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">JavaScript</span>
-				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
 					<div class="progress-bar bg-dark fw-bold" style="width: 20%">20%</div>
 				</div>
 			</div>
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">PHP</span>
-				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
 					<div class="progress-bar bg-dark fw-bold" style="width: 20%">20%</div>
 				</div>
 			</div>
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">Git / GitHub</span>
-				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
 					<div class="progress-bar bg-dark fw-bold" style="width: 70%">70%</div>
 				</div>
 			</div>
 			<div class="container competences align-content-center pb-2">
 				<span class="h3 fw-bold text-center">SEO</span>
-				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+				<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
 					<div class="progress-bar bg-dark fw-bold" style="width: 80%">80%</div>
 				</div>
 			</div>
